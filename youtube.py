@@ -294,4 +294,5 @@ if __name__ == "__main__":
             app.mainloop()
     else:
         app = App()
+
         app.mainloop()
